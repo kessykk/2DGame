@@ -134,6 +134,7 @@ function selectAvatar(kid){
     document.getElementById("startBtn").style.display = "block";
 
   }
+    myGameArea.stop();
 restart();
   myGameArea.canvas.width = window.innerWidth;
   myGameArea.canvas.height = window.innerHeight;
