@@ -135,7 +135,7 @@ body, html {
 .startBtn {
    height:50px;
    position:relative;
-   top:15%;
+   top:10%;
    left:45%;
    border-radius:20px;
    display:none;
